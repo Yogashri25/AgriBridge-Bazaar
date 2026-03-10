@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "326851006223",
+    "project_id": "agribridge-bazaar",
+    "storage_bucket": "agribridge-bazaar.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326851006223:android:0560620e6e0832b77b387a",
+        "android_client_info": {
+          "package_name": "com.example.agribridgebazaar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbH1ybmVPa1awDA8lGamYqZ5gnU3oSL8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
